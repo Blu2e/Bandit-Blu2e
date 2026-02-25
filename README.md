@@ -16,4 +16,4 @@
 - Level0에서 찾은 비밀번호 입력
 - 명령어 연습 :
   - 'ls', 'cat readme', 'pwd', 'cd folder', 'file somefile', 'du -h somefile', 'find . -name "filename"'
-(전공도 아니고 배운적도 없고 Over The Wire : Bandit 짱짱뉴비의 입문기, 매우 힘들었음 사실 레벨1 접속하고 막막했음, cmd 복사도 처음 알았음)
+ -(전공도 아니고 배운적도 없고 Over The Wire : Bandit 짱짱뉴비의 입문기, 매우 힘들었음 사실 레벨1 접속하고 막막했음, cmd 복사도 처음 알았음)
