@@ -1,8 +1,8 @@
-# 🟦 Bandit Level 1 & 2 정리 (Blue)
+# 🟦 Bandit Level 2 & 3 정리 (Blue)
 
 ---
 
-# 🟦 Level 1
+# 🟦 Level 2
 
 ## 🎯 목표
 파일 이름이 `-` 인 파일의 내용을 읽기
@@ -40,7 +40,7 @@ cat ./-
 - 옵션과 파일 인자의 차이를 이해했다.
 
 
-# 🟦 Level 2
+# 🟦 Level 3
 
 ## 🎯 목표
 공백이 포함된 파일 이름을 읽기
@@ -109,3 +109,7 @@ cat "./-- spaces in this filename --"
 단순히 문제를 푼 것이 아니라 시스템이 어떻게 동작하는지를 배우는 느낌이었다.
 
 내가 이런 기록을 남기는건 나도 이런 날들이 있었구나, 애기들이 뒤집기하는 것처럼 나도 이런 시절이 있었구나 추억을 회상하기 위함이다.
+
+##마지막 레벨2,3 Password
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx Level2
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx Level3
